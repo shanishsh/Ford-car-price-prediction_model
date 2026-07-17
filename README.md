@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction using Machine Learning
+# 🚗 Ford Car Price Prediction using Machine Learning
 
 ## 📌 Project Overview
 
