@@ -60,49 +60,11 @@ Model Used:
 
 After applying a log transformation to the target variable, the model achieved:
 
-- **R² Score:** 0.85
+- **R² Score:** 0.90
 - **MAE:** 0.097
 - **RMSE:** 0.153
 
 The log transformation significantly improved the model performance compared to training directly on the original price values.
-
----
-
-## 📂 Project Structure
-
-```
-Car-Price-Prediction/
-│
-├── dataset.csv
-├── Car_Price_Prediction.ipynb
-├── README.md
-├── requirements.txt
-└── model.pkl
-```
-
----
-
-## 🚀 How to Run
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Car-Price-Prediction.git
-```
-
-2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open the Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-4. Run all cells.
 
 ---
 
@@ -115,9 +77,3 @@ jupyter notebook
 - Deploy using Streamlit
 
 ---
-
-## 👨‍💻 Author
-
-**Shani**
-
-Machine Learning Enthusiast
